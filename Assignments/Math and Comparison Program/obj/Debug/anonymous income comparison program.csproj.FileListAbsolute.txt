@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\bin\Debug\Math and Comparison Program.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\bin\Debug\Math and Comparison Program.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\bin\Debug\Math and Comparison Program.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\obj\Debug\anonymous income comparison program.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\obj\Debug\anonymous income comparison program.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\obj\Debug\Math and Comparison Program.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Assignments\Math and Comparison Program\obj\Debug\Math and Comparison Program.pdb
