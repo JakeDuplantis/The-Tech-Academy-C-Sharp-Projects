@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Daily Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AAA46F-6B3D-433B-81FE-EF1E8056F96D}|Daily Report\\Daily Report.csproj|c:\\users\\jaked\\documents\\github\\the-tech-academy-c-sharp-projects\\daily report\\daily report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AAA46F-6B3D-433B-81FE-EF1E8056F96D}|Daily Report\\Daily Report.csproj|solutionrelative:daily report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Daily Report\\Daily Report\\Program.cs",
+              "RelativeDocumentMoniker": "Daily Report\\Program.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Daily Report\\Daily Report\\Program.cs",
+              "RelativeToolTip": "Daily Report\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T20:30:32.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
