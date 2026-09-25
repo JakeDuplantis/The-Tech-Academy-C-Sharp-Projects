@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.pdb
