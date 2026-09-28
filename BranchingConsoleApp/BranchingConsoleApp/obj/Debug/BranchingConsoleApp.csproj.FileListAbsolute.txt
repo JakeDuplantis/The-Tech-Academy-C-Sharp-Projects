@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\bin\Debug\BranchingConsoleApp.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\bin\Debug\BranchingConsoleApp.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\bin\Debug\BranchingConsoleApp.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\obj\Debug\BranchingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\obj\Debug\BranchingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\obj\Debug\BranchingConsoleApp.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingConsoleApp\BranchingConsoleApp\obj\Debug\BranchingConsoleApp.pdb
