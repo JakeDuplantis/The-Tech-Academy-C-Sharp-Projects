@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\bin\Debug\while and do while Loop App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\bin\Debug\while and do while Loop App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\bin\Debug\while and do while Loop App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\obj\Debug\while and do while Loop App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\obj\Debug\while and do while Loop App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\obj\Debug\while and do while Loop App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\while and do while Loop App\while and do while Loop App\obj\Debug\while and do while Loop App.pdb
