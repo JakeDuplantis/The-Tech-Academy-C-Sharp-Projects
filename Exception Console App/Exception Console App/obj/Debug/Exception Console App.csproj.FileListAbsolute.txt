@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\bin\Debug\Exception Console App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\bin\Debug\Exception Console App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\bin\Debug\Exception Console App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\obj\Debug\Exception Console App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\obj\Debug\Exception Console App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\obj\Debug\Exception Console App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Exception Console App\Exception Console App\obj\Debug\Exception Console App.pdb
