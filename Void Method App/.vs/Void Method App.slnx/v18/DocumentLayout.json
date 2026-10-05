@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4893B30E-30D7-4E57-8524-FB2195D02061}|Void Method App\\Void Method App.csproj|c:\\users\\jaked\\documents\\github\\the-tech-academy-c-sharp-projects\\void method app\\void method app\\mathmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4893B30E-30D7-4E57-8524-FB2195D02061}|Void Method App\\Void Method App.csproj|solutionrelative:void method app\\mathmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4893B30E-30D7-4E57-8524-FB2195D02061}|Void Method App\\Void Method App.csproj|C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\void method app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4893B30E-30D7-4E57-8524-FB2195D02061}|Void Method App\\Void Method App.csproj|solutionrelative:void method app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mathMethod.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\Void Method App\\mathMethod.cs",
+              "RelativeDocumentMoniker": "Void Method App\\mathMethod.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\Void Method App\\mathMethod.cs",
+              "RelativeToolTip": "Void Method App\\mathMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:34:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\Void Method App\\Program.cs",
+              "RelativeDocumentMoniker": "Void Method App\\Program.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Void Method App\\Void Method App\\Program.cs",
+              "RelativeToolTip": "Void Method App\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:33:54.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
