@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\obj\Debug\Methods and Objects App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\obj\Debug\Methods and Objects App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\bin\Debug\Methods and Objects App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\bin\Debug\Methods and Objects App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\bin\Debug\Methods and Objects App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\obj\Debug\Methods and Objects App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Methods and Objects App\Methods and Objects App\obj\Debug\Methods and Objects App.pdb
