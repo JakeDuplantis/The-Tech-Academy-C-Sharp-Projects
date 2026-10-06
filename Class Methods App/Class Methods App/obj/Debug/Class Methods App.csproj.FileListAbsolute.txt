@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\bin\Debug\Class Methods App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\bin\Debug\Class Methods App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\bin\Debug\Class Methods App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\obj\Debug\Class Methods App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\obj\Debug\Class Methods App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\obj\Debug\Class Methods App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Class Methods App\Class Methods App\obj\Debug\Class Methods App.pdb
