@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\bin\Debug\Abstract Class App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\bin\Debug\Abstract Class App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\bin\Debug\Abstract Class App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\obj\Debug\Abstract Class App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\obj\Debug\Abstract Class App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\obj\Debug\Abstract Class App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Abstract Class App\Abstract Class App\obj\Debug\Abstract Class App.pdb
