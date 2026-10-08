@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\bin\Debug\Operator Overload App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\bin\Debug\Operator Overload App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\bin\Debug\Operator Overload App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\obj\Debug\Operator Overload App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\obj\Debug\Operator Overload App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\obj\Debug\Operator Overload App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operator Overload App\Operator Overload App\obj\Debug\Operator Overload App.pdb
