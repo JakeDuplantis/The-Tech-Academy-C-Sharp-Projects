@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\bin\Debug\Generic Parameters App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\bin\Debug\Generic Parameters App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\bin\Debug\Generic Parameters App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\obj\Debug\Generic Parameters App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\obj\Debug\Generic Parameters App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\obj\Debug\Generic Parameters App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generic Parameters App\Generic Parameters App\obj\Debug\Generic Parameters App.pdb

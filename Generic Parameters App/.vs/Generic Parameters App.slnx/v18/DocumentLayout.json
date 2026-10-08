@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4759D34-5D1F-4E12-B9BA-ED3281362268}|Generic Parameters App\\Generic Parameters App.csproj|C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\generic parameters app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4759D34-5D1F-4E12-B9BA-ED3281362268}|Generic Parameters App\\Generic Parameters App.csproj|solutionrelative:generic parameters app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4759D34-5D1F-4E12-B9BA-ED3281362268}|Generic Parameters App\\Generic Parameters App.csproj|c:\\users\\jaked\\documents\\github\\the-tech-academy-c-sharp-projects\\generic parameters app\\generic parameters app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4759D34-5D1F-4E12-B9BA-ED3281362268}|Generic Parameters App\\Generic Parameters App.csproj|solutionrelative:generic parameters app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\Generic Parameters App\\Employee.cs",
+              "RelativeDocumentMoniker": "Generic Parameters App\\Employee.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\Generic Parameters App\\Employee.cs",
+              "RelativeToolTip": "Generic Parameters App\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:40:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\Generic Parameters App\\Program.cs",
+              "RelativeDocumentMoniker": "Generic Parameters App\\Program.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Generic Parameters App\\Generic Parameters App\\Program.cs",
+              "RelativeToolTip": "Generic Parameters App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:40:14.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
