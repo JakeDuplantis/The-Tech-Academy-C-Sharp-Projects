@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\bin\Debug\Parsing Enums App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\bin\Debug\Parsing Enums App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\bin\Debug\Parsing Enums App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\obj\Debug\Parsing Enums App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\obj\Debug\Parsing Enums App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\obj\Debug\Parsing Enums App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Parsing Enums App\Parsing Enums App\obj\Debug\Parsing Enums App.pdb
