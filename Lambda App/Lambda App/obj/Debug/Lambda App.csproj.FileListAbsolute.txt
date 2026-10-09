@@ -1,0 +1,7 @@
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\bin\Debug\Lambda App.exe.config
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\bin\Debug\Lambda App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\bin\Debug\Lambda App.pdb
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\obj\Debug\Lambda App.csproj.AssemblyReference.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\obj\Debug\Lambda App.csproj.CoreCompileInputs.cache
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\obj\Debug\Lambda App.exe
+C:\Users\JakeD\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Lambda App\Lambda App\obj\Debug\Lambda App.pdb

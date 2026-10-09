@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B310B74C-795D-4FA9-83FE-D2141560E055}|Lambda App\\Lambda App.csproj|c:\\users\\jaked\\documents\\github\\the-tech-academy-c-sharp-projects\\lambda app\\lambda app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310B74C-795D-4FA9-83FE-D2141560E055}|Lambda App\\Lambda App.csproj|solutionrelative:lambda app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310B74C-795D-4FA9-83FE-D2141560E055}|Lambda App\\Lambda App.csproj|C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\lambda app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310B74C-795D-4FA9-83FE-D2141560E055}|Lambda App\\Lambda App.csproj|solutionrelative:lambda app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\Lambda App\\Employee.cs",
+              "RelativeDocumentMoniker": "Lambda App\\Employee.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\Lambda App\\Employee.cs",
+              "RelativeToolTip": "Lambda App\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:21:20.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\Lambda App\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda App\\Program.cs",
+              "ToolTip": "C:\\Users\\JakeD\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\Lambda App\\Lambda App\\Program.cs",
+              "RelativeToolTip": "Lambda App\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:08:21.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
